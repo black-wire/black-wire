@@ -11,5 +11,3 @@ I'm a student and I find software interesting.<br> Have a pleasant day! <br>
 
 
 
----
-[![vc](https://visitcount.itsvg.in/api?id=black-wire&icon=0&color=0)](https://visitcount.itsvg.in)
