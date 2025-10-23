@@ -2,11 +2,6 @@
 I'm a student and I find software interesting.<br> Have a pleasant day! <br>
 
 
-[![black-wire's GitHub | Stats](https://stats.quine.sh/black-wire/github?theme=light)](https://quine.sh)
-
-[![black-wire's GitHub | Languages Over Time](https://stats.quine.sh/black-wire/languages-over-time?theme=dark)](https://quine.sh)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrit-manas-469108320) 
 
@@ -17,4 +12,4 @@ I'm a student and I find software interesting.<br> Have a pleasant day! <br>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=black-wire&icon=0&color=0)](https://visitcount.itsvg.in)
+[![vc](https://visitcount.itsvg.in/api?id=black-wire&icon=0&color=0)](https://visitcount.itsvg.in)
